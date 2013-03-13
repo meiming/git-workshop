@@ -1,4 +1,3 @@
 "try" 
-G�i�t� �W�o�r�k�s�h�o�p�
-�
-�It's been a long time coming
+G I T  W O R K S H O P
+It's been a long time coming
